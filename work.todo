@@ -6,9 +6,9 @@ x 2018-05-10 todo format, add brackets, build
 
 x 2018-05-12 linux systems, kernel
 
-arm neon
+(D) 2019-01-01 arm neon
 
-opencl
+(D) opencl
 
 x 2018-05-12 vim folding
 (D) take vim folder outside ubuntu-settings git repository and add build script
@@ -16,3 +16,13 @@ x 2018-05-12 vim folding
 vim snipMate
 
 vimwiki
+
+(D) neovim
+
+x 2018-05-13 vim plugins like surrend textobject commenter
+
+systemctrl ip forward
+
+x 2018-05-13 enable relative number
+
+vpn strongswan ipsec
